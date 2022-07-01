@@ -1,7 +1,6 @@
 #include <stdio.h>
-/*main: Entry
- * Return: Always 0 (success)
- * Pintf:with proper grammar,but the outcome is a piece of art
+/*main: Entry point
+ *Return: Always 0 (success)
  */
 int main(void)
 {
